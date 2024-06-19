@@ -1,5 +1,5 @@
 # CS-230-Module-Eight-Journal
-CS 230 Module Eight Journal
+Gaming Room Software Design
 
 Our client, The Gaming Room, are developers of a web-based game. They consulted our company on expanding their web-based game to other platforms. Currently their game is only avaliable on Android platforms.
 
